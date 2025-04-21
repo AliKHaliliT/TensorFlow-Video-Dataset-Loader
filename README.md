@@ -41,7 +41,8 @@ Each subdirectory under `dataset_root` represents a class, and the videos inside
 ### Example
 
 ```python
-from your_module import VideoDatasetLoader  # Update with actual import
+from video_dataset_loader import VideoDatasetLoader
+
 
 video_loader = VideoDatasetLoader(
     data_path='path/to/dataset_root',
@@ -53,6 +54,7 @@ video_loader = VideoDatasetLoader(
     reshuffle_each_iteration=True,
     drop_remainder=True
 )
+
 
 dataset = video_loader()
 
