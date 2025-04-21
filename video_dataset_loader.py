@@ -37,7 +37,7 @@ class VideoDatasetLoader:
         
         """
 
-        Constructor of the Video Data Generator class.
+        Constructor of the Video Dataset Loader class.
 
         
         Parameters
