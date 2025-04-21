@@ -22,7 +22,7 @@ pip install tensorflow==2.18.0 tqdm==4.67.1 pandas==2.2.3 numpy==2.0.2 opencv-py
 
 Your dataset should be organized as follows:
 
-```
+```plaintext
 dataset_root/
 │
 ├── class_1/
