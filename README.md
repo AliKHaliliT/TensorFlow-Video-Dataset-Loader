@@ -1,5 +1,5 @@
 # TensorFlow Video Dataset Loader
-<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
     <img src="https://img.shields.io/github/license/AliKHaliliT/TensorFlow-Video-Dataset-Loader" alt="License">
     <img src="https://img.shields.io/github/last-commit/AliKHaliliT/TensorFlow-Video-Dataset-Loader" alt="Last Commit">
     <img src="https://img.shields.io/github/issues/AliKHaliliT/TensorFlow-Video-Dataset-Loader" alt="Open Issues">
